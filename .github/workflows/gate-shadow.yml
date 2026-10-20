@@ -1,4 +1,4 @@
-# Dropped into each repo as .github/workflows/gate-shadow.yml by
+# Dropped into each repo as .github/workflows/gate-shadow.yml by scripts/onboard-repo.sh.
 name: gate-shadow
 on:
   pull_request:
